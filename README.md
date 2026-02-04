@@ -1,2 +1,2 @@
-# Building-Application
-A Python application developed as part of a hands-on learning and portfolio project. It showcases Python fundamentals, structured code organization, and the use of industry-standard development practices.
+# construction-linker
+A Python-based system that connects contractors, engineers, and handymen on a construction site and recommends the best suppliers for building materials.
